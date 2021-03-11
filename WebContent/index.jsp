@@ -15,5 +15,6 @@
 		<li>2. reverse commit : 되돌아간 지점을 새로 커밋하는 개념</li> <!-- ctrl + shift + X : 대문자 변경  / ctrl + shift + X : 소문자 변경-->
 		<li>리버스 커밋</li>
 	</ul>
+	<p>지금 상황에서는 신규개발 브랜치가 이 파일을 가급적이면 손대지 않는 것이 좋다.</p>
 </body>
 </html>
