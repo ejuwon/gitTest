@@ -12,6 +12,7 @@
 	<p>커밋후 처리방법</p>
 	<ul>
 		<li>1. 이 커밋까지 현재 브랜치를 초기화 : 특정 위치로 되돌림(hard: 폐기/ mixed:unstaging/ soft: staging)</li>
+		<li>2. reverse commit</li>
 	</ul>
 </body>
 </html>
