@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>hello git!!</h1>
+	<p>폐기의 단축키 (ctrl +shift +r) : 커밋하기 이전(unstaging)에서 변경 내용을 취소 시킴(이클립스에서도 변경됨)</p>
 </body>
 </html>
